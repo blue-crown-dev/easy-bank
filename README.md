@@ -29,6 +29,8 @@ npm start
 
 ## Deployment
 
+The site is deployed live at [this link](https://easy-deposit.netlify.app)
+
 ## Built with
 
 - React.js
